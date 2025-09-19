@@ -1,0 +1,6 @@
+# Visual Studio/빌드 산출물 무시
+.vs/
+bin/
+obj/
+*.user
+*.suo
